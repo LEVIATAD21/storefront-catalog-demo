@@ -1,3 +1,5 @@
+![Motion Banner](assets/motion-banner.gif)
+
 # Planejamento: configuração inicial de loja em plataforma hospedada
 
 > **Status:** planejamento privado. Sem catálogo, imagens, credenciais ou marca de terceiros.
