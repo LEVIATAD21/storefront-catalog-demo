@@ -1,22 +1,24 @@
-![Motion Banner](assets/motion-banner.gif)
+# Catálogo de Loja Digital
 
-# Planejamento: configuração inicial de loja em plataforma hospedada
+> **Demo de portfólio independente.** Não representa trabalho contratado, dados de cliente, integração produtiva ou resultado comercial.
 
-> **Status:** planejamento privado. Sem catálogo, imagens, credenciais ou marca de terceiros.
+Demo de vitrine de produtos com filtro de categoria, variações e carrinho local.
 
-## Objetivo
+## Funcionalidades demonstradas
 
-Organizar a configuração de uma pequena loja virtual em plataforma hospedada, com foco em catálogo, navegação e preparação para operação do proprietário.
+- Filtro por categoria.
+- Seleção de produto demonstrativo.
+- Carrinho local com total calculado.
 
-## Requisitos
+## Executar e revisar
 
-| Componente | Planejamento |
-|---|---|
-| Catálogo | Estrutura de categorias, produtos, variações e imagens fornecidas. |
-| Navegação | Menu, busca, páginas institucionais e políticas do lojista. |
-| Conversão | Página de produto, carrinho e chamadas de ação claras. |
-| Entrega | Treinamento de atualização e checklist de publicação. |
+```bash
+npm test
+npm run review
+```
 
-## Fora do escopo inicial
+Os testes cobrem a lógica central da demo. A revisão estática confere os arquivos obrigatórios, a identificação de demo e a ausência de arquivos de ambiente.
 
-Cadastro em meios de pagamento, logística, compra de domínio, copy comercial e operação de anúncios dependem de informações e decisões do proprietário.
+## Limites
+
+Dados, contatos e números apresentados pela interface são estritamente ilustrativos. Integrações, pagamento, hospedagem, banco de dados e dados de terceiros exigem escopo e autorização próprios.

@@ -1,0 +1,1 @@
+import assert from 'node:assert/strict'; import { filterProducts, cartTotal, products } from './app.mjs'; assert.equal(filterProducts('Casa').length, 1); assert.equal(filterProducts('Todos').length, 3); assert.equal(cartTotal([products[0], products[2]]), 115); console.log('storefront-catalog-demo: testes aprovados');
